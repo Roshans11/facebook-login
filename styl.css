@@ -97,7 +97,7 @@ tex{
 @media screen and(max-width:1080px) {
   #textt{
     position: relative;
-    top:150px;
+    top:380px;
     text-align: center;
   }
   
@@ -108,7 +108,7 @@ tex{
   font-size: 18vh;
   width:50%;
   position: relative;
-  left:50%;
+  left:100%;
   
   }
   
