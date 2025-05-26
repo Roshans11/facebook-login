@@ -81,7 +81,9 @@ tex{
 @media screen and (max-width: 768px) {
   #facebook,
   #containt,
-  #box {
+  #box ,
+  #forget,
+  #textt{
     position: static;
     width: 90%;
     margin: 10px auto;
