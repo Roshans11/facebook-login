@@ -102,4 +102,15 @@ tex{
   }
   
 }
+@media screen and(max-width:1080px) {
+  #newAccount{
+  padding:0%;
+  font-size: 18vh;
+  width:50%;
+  position: relative;
+  left:50%;
+  
+  }
+  
+}
 
