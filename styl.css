@@ -81,36 +81,28 @@ tex{
 @media screen and (max-width: 1080px) {
   #facebook,
   #containt,
-  #box ,
+  #box,
   #forget,
-  #forms{
+  #forms,
+  #textt,
+  #newAccount {
     position: static;
     width: 90%;
     margin: 10px auto;
     text-align: center;
   }
 
-  .container {
-    flex-direction: row;
+  #textt {
+    top: auto;
+    font-size: 18px; /* Adjust as needed */
+  }
+
+  #newAccount {
+    font-size: 16px;
+    left: auto;
+    padding: 10px;
+    width: 60%;
   }
 }
-@media screen and(max-width:1080px) {
-  #textt{
-    position: relative;
-    top:380px;
-    text-align: center;
-  }
-  
-}
-@media screen and(max-width:1080px) {
-  #newAccount{
-  padding:0%;
-  font-size: 18vh;
-  width:50%;
-  position: relative;
-  left:100%;
-  
-  }
-  
-}
+
 
