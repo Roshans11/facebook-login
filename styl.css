@@ -78,3 +78,18 @@ tex{
     top: 380px;
     
 }
+@media screen and (max-width: 768px) {
+  #facebook,
+  #containt,
+  #box {
+    position: static;
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+}
+
