@@ -83,7 +83,8 @@ tex{
   #containt,
   #box ,
   #forget,
-  #textt{
+  #textt,
+  #forms{
     position: static;
     width: 90%;
     margin: 10px auto;
