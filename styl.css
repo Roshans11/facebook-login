@@ -78,12 +78,11 @@ tex{
     top: 380px;
     
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
   #facebook,
   #containt,
   #box ,
   #forget,
-  #textt,
   #forms{
     position: static;
     width: 90%;
@@ -94,5 +93,13 @@ tex{
   .container {
     flex-direction: row;
   }
+}
+@media screen and(max-width:1080px) {
+  #textt{
+    position: relative;
+    top:50px;
+    text-align: center;
+  }
+  
 }
 
